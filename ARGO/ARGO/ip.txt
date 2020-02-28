@@ -1,0 +1,22 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : itcarlow.ie
+   IPv4 Address. . . . . . . . . . . : 149.153.106.152
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 149.153.106.254
+
+Ethernet adapter Npcap Loopback Adapter:
+
+   Connection-specific DNS Suffix  . : 
+   Autoconfiguration IPv4 Address. . : 169.254.112.89
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
